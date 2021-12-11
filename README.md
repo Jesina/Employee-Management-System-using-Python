@@ -22,7 +22,7 @@ Jupyter Notebook(Anaconda)
 ```
 
 #### :clap: And it's done! You can use the response for your tasks/applications.
-Feel free to **file a new issue** with a respective title and description on the [employee-management-system](https://github.com/dhamodaran-pandiyan/employee-management-system/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
+Feel free to **file a new issue** with a respective title and description on the [employee-management-system](https://github.com/Jesina/Employee-management-system-using-Python/issues) repository. If you feel to add any improvements/changes, **I would love to add your contributions**! 
 
 ### :heart: Contributor
 Made by [Jesina Banu](https://github.com/Jesina)
