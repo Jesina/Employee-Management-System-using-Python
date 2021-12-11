@@ -6,15 +6,15 @@
 
 <h5>This project consist of concepts of </h5>
 <ul>
-  <li> 1: OOPS</li>
-  <li> 2: Conditional Structure</li>
-  <li> 3: Looping Statements</li>
+  <li>  OOPS</li>
+  <li>  Conditional Structure</li>
+  <li>  Looping Statements</li>
 </ul>
 
 ### 🚀&nbsp; Uses
-  <li> 1. Manage the employee details in a better way.</li>
-  <li> 2. Employees & administrator both can use it with ease.</li>
-  <li> 3. Editing & updates can be made easily accordingly.</li>
+  <li> Manage the employee details in a better way.</li>
+  <li> Employees & administrator both can use it with ease.</li>
+  <li> Editing & updates can be made easily accordingly.</li>
   
 ### :key: Software Requirement
 ```
